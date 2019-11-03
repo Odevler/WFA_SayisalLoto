@@ -1,6 +1,6 @@
 # SayisalLoto
 
-[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png) 
+[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
 
 
 * Kullanıcı çekiliş yap butonuna tıkladığında sol baştan başlayarak, 1 ile 49 arasında(49 dahil ) sayı üretecek.
